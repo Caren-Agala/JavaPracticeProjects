@@ -1,8 +1,12 @@
 package org.example.Pizza;
 public class PizzaBillGenerator {
     public static void main(String[] args) {
-        pizza basePizza = new pizza(true);
-        basePizza.getPizzaPrice();
+        pizza basePizza = new pizza(false);
+        basePizza.addExtraCheese();
+        //basePizza.addExtraTopping();
+        basePizza.takeAway();
+        basePizza.getBill();
+        //basePizza.getPizzaPrice();
     }
 
 }
