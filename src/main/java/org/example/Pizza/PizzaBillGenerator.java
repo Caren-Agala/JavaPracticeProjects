@@ -8,7 +8,9 @@ public class PizzaBillGenerator {
 //        basePizza.getBill();
 //        //basePizza.getPizzaPrice();
 
-        deluxePizza dp = new deluxePizza(false);
+        deluxePizza dp = new deluxePizza(true);
+        dp.addExtraCheese();
+        dp.takeAway();
         dp.getBill();
     }
 
