@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa963ba8-ce3c-46fe-a0df-bcde5f64f29b" name="Changes" comment="Pizza bill generator app">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Pizza/PizzaBillGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Pizza/PizzaBillGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Pizza/deluxePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Pizza/deluxePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LotteryNumGen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +29,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.LotteryNumGen.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.PizzaBillGenerator.executor": "Run",
     "Application.TicTacToe.executor": "Run",
@@ -63,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705650112191</updated>
-      <workItem from="1705650113374" duration="14739000" />
+      <workItem from="1705650113374" duration="16970000" />
     </task>
     <task id="LOCAL-00001" summary="Java investment earnings calculator">
       <option name="closed" value="true" />
@@ -97,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705665381894</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Pizza bill generator app">
+      <option name="closed" value="true" />
+      <created>1705667605404</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705667605404</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
